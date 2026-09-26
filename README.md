@@ -2,15 +2,18 @@
 
 </div>
 
-# `function introduce() { return "Reverson Barbosa"; }`
+# return "Reverson Barbosa";
 
 > "Só aquilo que somos realmente tem o poder de nos curar." Carl Jung
 
-## 🌟 About Me
 
-- 🔭 **Currently building:** 👨‍💻 **Desenvolvedor Software Júnior** Focado em escrever código limpo, resolver problemas reais e aprender continuamente.
+-  👨‍💻 **Desenvolvedor Software Júnior**
+-  Focado em escrever código limpo, resolver problemas reais e aprender continuamente.
 
 ## 🛠️ Tech Stack
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-a3b234?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-7334b2?style=for-the-badge)
 
 **Frameworks & Libraries:**  
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-b23438?style=for-the-badge) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-5ab234?style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-a334b2?style=for-the-badge) ![JUnit](https://img.shields.io/badge/JUnit-b2349d?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-b29234?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
