@@ -1,8 +1,4 @@
-<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Reverson75&style=flat-square&color=58a6ff)
-
-</div>
 
 # `function introduce() { return "Reverson Barbosa"; }`
 
