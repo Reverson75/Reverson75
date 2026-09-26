@@ -28,8 +28,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reverson75&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reverson75&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🤝 Connect With Me
