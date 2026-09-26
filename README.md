@@ -1,6 +1,6 @@
 
 
-# `function introduce() { return "Reverson Barbosa"; }`
+# return "Reverson Barbosa";
 
 > "Só aquilo que somos realmente tem o poder de nos curar." Carl Jung
 
