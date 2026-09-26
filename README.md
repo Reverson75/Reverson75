@@ -1,26 +1,31 @@
+<div align="center">
 
+</div>
 
-# return "Reverson Barbosa";
+# `function introduce() { return "Reverson Barbosa"; }`
 
 > "Só aquilo que somos realmente tem o poder de nos curar." Carl Jung
 
+## 🌟 About Me
+
+- 🔭 **Currently building:** 👨‍💻 **Desenvolvedor Software Júnior** Focado em escrever código limpo, resolver problemas reais e aprender continuamente.
+
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-a3b234?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-7334b2?style=for-the-badge)
-
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-b23438?style=for-the-badge) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-5ab234?style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-a334b2?style=for-the-badge) ![JUnit](https://img.shields.io/badge/JUnit-b2349d?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-b29234?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 
 **Tools & DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SqlServer](https://img.shields.io/badge/SqlServer-348ab2?style=for-the-badge)
+![PostgresSql](https://img.shields.io/badge/PostgresSql-b23e34?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SqlServer](https://img.shields.io/badge/SqlServer-348ab2?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![Reverson Barbosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reverson75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reverson75&theme=tokyonight&hide_border=true)
 
