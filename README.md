@@ -7,7 +7,7 @@
 > "Só aquilo que somos realmente tem o poder de nos curar." Carl Jung
 
 
--  👨‍💻 **Desenvolvedor Software Júnior**
+-  👨‍💻 **Estudante de Tecnologias e Programação de Sistemas de Informação **
 -  Focado em escrever código limpo, resolver problemas reais e aprender continuamente.
 
 ## 🛠️ Tech Stack
