@@ -24,6 +24,9 @@
 **Databases:**  
 ![PostgresSql](https://img.shields.io/badge/PostgresSql-b23e34?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SqlServer](https://img.shields.io/badge/SqlServer-348ab2?style=for-the-badge)
 
+Portfólio:
+https://soniabarbosavendadireta.com/
+
 ## 📊 GitHub Stats
 
 <div align="center">
