@@ -24,8 +24,8 @@
 **Databases:**  
 ![PostgresSql](https://img.shields.io/badge/PostgresSql-b23e34?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SqlServer](https://img.shields.io/badge/SqlServer-348ab2?style=for-the-badge)
 
-**Portfólio:**
-https://soniabarbosavendadireta.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://soniabarbosavendadireta.com/)
+
 
 ## 📊 GitHub Stats
 
@@ -42,7 +42,6 @@ https://soniabarbosavendadireta.com
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/reverson-barbosa-77aa28160)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://soniabarbosavendadireta.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbm25522@gmail.com)
 
 </div>
