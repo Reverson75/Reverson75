@@ -24,7 +24,7 @@
 **Databases:**  
 ![PostgresSql](https://img.shields.io/badge/PostgresSql-b23e34?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SqlServer](https://img.shields.io/badge/SqlServer-348ab2?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://soniabarbosavendadireta.com/) Site de revenda de cosmeticos e cadastro de novas revendedoras
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://soniabarbosavendadireta.com/) >Site de revenda de cosmeticos e cadastro de novas revendedoras
 
 
 ## 📊 GitHub Stats
